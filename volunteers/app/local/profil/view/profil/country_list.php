@@ -1,0 +1,200 @@
+<select name="country">
+<option></option>
+<optgroup label="Afrique">
+<option>Afrique Du Sud</option>
+<option>Alg&eacute;rie</option>
+<option>Angola</option>
+<option>B&eacute;nin</option>
+<option>Botswana</option>
+<option>Burkina</option>
+<option>Burundi</option>
+<option>Cameroun</option>
+<option>Cap-Vert</option>
+<option>Centre-Afrique</option>
+<option>Comores</option>
+<option>Congo</option>
+<option>C&ocirc;te d'Ivoire</option>
+<option>Djibouti</option>
+<option>Egypte</option>
+<option>Ethiopie</option>
+<option>Gabon</option>
+<option>Gambie</option>
+<option>Ghana</option>
+<option>Guin&eacute;e</option>
+<option>Kenya</option>
+<option>Lesotho</option>
+<option>Liberia</option>
+<option>Libye</option>
+<option>Madagascar</option>
+<option>Malawi</option>
+<option>Mali</option>
+<option>Maroc</option>
+<option>Maurice</option>
+<option>Mauritanie</option>
+<option>Mozambique</option>
+<option>Namibie</option>
+<option>Niger</option>
+<option>Nigeria</option>
+<option>Ouganda</option>
+<option>Rwanda</option>
+<option>Sao Tom&eacute;-et-Principe</option>
+<option>S&eacute;n&eacute;gal</option>
+<option>Seychelles</option>
+<option>Sierra</option>
+<option>Somalie</option>
+<option>Soudan</option>
+<option>Swaziland</option>
+<option>Tanzanie</option>
+<option>Tchad</option>
+<option>Togo</option>
+<option>Tunisie</option>
+<option>Zambie</option>
+<option>Zimbabwe</option>
+</optgroup>
+<optgroup label="Am&eacute;rique">
+<option>Antigua-et-Barbuda</option>
+<option>Argentine</option>
+<option>Bahamas</option>
+<option>Barbade</option>
+<option>Belize</option>
+<option>Bolivie</option>
+<option>Br&eacute;sil</option>
+<option>Canada</option>
+<option>Chili</option>
+<option>Colombie</option>
+<option>Costa Rica</option>
+<option>Cuba</option>
+<option>R&eacute;publique Dominicaine</option>
+<option>Dominique</option>
+<option>Equateur</option>
+<option>Etats-Unis</option>
+<option>Grenade</option>
+<option>Guatemala</option>
+<option>Guyana</option>
+<option>Ha&iuml;ti</option>
+<option>Honduras</option>
+<option>Jama&iuml;que</option>
+<option>Mexique</option>
+<option>Nicaragua</option>
+<option>Panama</option>
+<option>Paraguay</option>
+<option>P&eacute;rou</option>
+<option>Saint-Cristophe-et-Ni&eacute;v&egrave;s</option>
+<option>Sainte-Lucie</option>
+<option>Saint-Vincent-et-les-Grenadines</option>
+<option>Salvador</option>
+<option>Suriname</option>
+<option>Trinit&eacute;-et-Tobago</option>
+<option>Uruguay</option>
+<option>Venezuela</option>
+</optgroup>
+<optgroup label="Asie">
+<option>Afghanistan</option>
+<option>Arabie Saoudite</option>
+<option>Arm&eacute;nie</option>
+<option>Azerba&iuml;djan</option>
+<option>Bahre&iuml;n</option>
+<option>Bangladesh</option>
+<option>Bhoutan</option>
+<option>Birmanie</option>
+<option>Brun&eacute;i</option>
+<option>Cambodge</option>
+<option>Chine</option>
+<option>Cor&eacute;e du Sud</option>
+<option>Cor&eacute;e du Nord</option>
+<option>Emirats Arabes</option>
+<option>G&eacute;orgie</option>
+<option>Inde</option>
+<option>Indon&eacute;sie</option>
+<option>Iraq</option>
+<option>Iran</option>
+<option>Isra&ecirc;l</option>
+<option>Japon</option>
+<option>Jordanie</option>
+<option>Kazakhstan</option>
+<option>Kirghistan</option>
+<option>Kowe&iuml;t</option>
+<option>Laos</option>
+<option>Liban</option>
+<option>Malaisie</option>
+<option>Maldives</option>
+<option>Mongolie</option>
+<option>N&eacute;pal</option>
+<option>Oman</option>
+<option>Ouzb&eacute;kistan</option>
+<option>Pakistan</option>
+<option>Philippines</option>
+<option>Qatar</option>
+<option>Singapour</option>
+<option>Sri Lanka</option>
+<option>Syrie</option>
+<option>Tadjikistan</option>
+<option>Ta&iuml;wan</option>
+<option>Tha&iuml;lande</option>
+<option>Timor oriental</option>
+<option>Turkm&eacute;nistan</option>
+<option>Turquie</option>
+<option>Vi&ecirc;t Nam</option>
+<option>Yemen</option>
+</optgroup>
+<optgroup label="Europe">
+<option>Allemagne</option>
+<option>Albanie</option>
+<option>Andorre</option>
+<option>Autriche</option>
+<option>Bi&eacute;lorussie</option>
+<option>Belgique</option>
+<option>Bosnie-Herz&eacute;govine</option>
+<option>Bulgarie</option>
+<option>Croatie</option>
+<option>Danemark</option>
+<option>Espagne</option>
+<option>Estonie</option>
+<option>Finlande</option>
+<option>France</option>
+<option>Gr&egrave;ce</option>
+<option>Hongrie</option>
+<option>Irlande</option>
+<option>Islande</option>
+<option>Italie</option>
+<option>Lettonie</option>
+<option>Liechtenstein</option>
+<option>Lituanie</option>
+<option>Luxembourg</option>
+<option>Mac&eacute;doine</option>
+<option>Malte</option>
+<option>Moldavie</option>
+<option>Monaco</option>
+<option>Norv&egrave;ge</option>
+<option>Pays-Bas</option>
+<option>Pologne</option>
+<option>Portugal</option>
+<option>Roumanie</option>
+<option>Royaume-Uni</option>
+<option>Russie</option>
+<option>Saint-Marin</option>
+<option>Serbie-Mont&eacute;n&eacute;gro</option>
+<option>Slovaquie</option>
+<option>Slov&eacute;nie</option>
+<option>Su&egrave;de</option>
+<option>Suisse</option>
+<option>R&eacute;publique Tch&egrave;que</option>
+<option>Ukraine</option>
+</optgroup>
+<optgroup label="Oc&eacute;anie">
+<option>Australie</option>
+<option>Fidji</option>
+<option>Kiribati</option>
+<option>Marshall</option>
+<option>Micron&eacute;sie</option>
+<option>Nauru</option>
+<option>Nouvelle-Z&eacute;lande</option>
+<option>Palaos</option>
+<option>Papouasie-Nouvelle-Guin&eacute;e</option>
+<option>Salomon</option>
+<option>Samoa</option>
+<option>Tonga</option>
+<option>Tuvalu</option>
+<option>Vanuatu</option>
+</optgroup>
+</select>

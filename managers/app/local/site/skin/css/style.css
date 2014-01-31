@@ -1,0 +1,106 @@
+/*
+native {
+font-family:impact;}
+*/
+@font-face {
+font-family:'lighthouse';
+src:url('../fonts/lighthouse_personal.ttf');}
+
+body {
+margin:0%;
+width:100%;}
+
+header, footer {
+padding:1%;
+text-align:center;
+background-color:dodgerBlue;}
+
+header > a {
+color:white;
+text-decoration:none;}
+
+footer > p {
+margin:0.1%;
+font-size:0.9em;}
+
+h1 {
+margin:3%;
+font-size:3em;
+font-family:'lighthouse';}
+
+nav ul {
+margin:0;}
+
+nav ul li {
+display:inline-block;}
+
+nav ul li:last-child {
+float:right;}
+
+#main {
+background-color:grey;}
+
+#logo {
+float:left;}
+
+#body {
+padding:1%;}
+
+#left {
+float:left;
+width:70%;}
+
+#right {
+float:right;
+width:30%;}
+
+.bold {font-weight:bold;}
+.italic {font-style:italic;}
+.underline {text-decoration:underline;}
+
+.require-field:after {
+content:' *';
+color:red;}
+
+.error-msg {
+display:block;
+color:red;}
+
+.clear {
+clear:both;}
+
+.clementine_crud-list_table,
+.clementine-dataTables {
+margin:1%;}
+
+.clementine_crud-list_table tr:hover,
+.clementine-dataTables tr:hover {
+opacity:0.7;}
+
+.clementine_crud-list_table td,
+.clementine-dataTables td {
+padding:3px;
+border:1px solid black;
+text-align:center;}
+
+.clementine_crud-list-createbutton,
+.clementine_crud-list-updatebutton,
+.clementine_crud-list-delbutton {
+border-radius:7px;
+border:1px solid black;
+color:white;
+text-decoration:none;
+background-color:steelBlue;}
+
+.clementine_crud-list-createbutton:hover,
+.clementine_crud-list-updatebutton:hover,
+.clementine_crud-list-delbutton:hover {
+}
+
+fieldset {
+margin:1%;
+border:3px solid white;
+border-radius:3px;}
+
+.help-answer {
+display:none;}

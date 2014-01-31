@@ -1,0 +1,150 @@
+/*
+native {
+font-family:impact;}
+*/
+@font-face {
+font-family:'lighthouse';
+src:url('../fonts/lighthouse_personal.ttf');}
+
+.bold {font-weight:bold;}
+.italic {font-style:italic;}
+.underline {text-decoration:underline;}
+
+/*
+.armand-colors {
+background-color:#36A9E1; dodgerBlue
+background-color:#34669A; steelBlue}
+*/
+
+body {
+margin:0%;
+width:100%;}
+
+header, footer {
+background-color:dodgerBlue;}
+
+footer {
+padding:1%;
+text-align:center;}
+
+header > a {
+color:white;
+text-decoration:none;}
+
+footer > p {
+margin:0.1%;
+font-size:0.9em;}
+
+#header {
+padding:1%;
+background-image:linear-gradient(dodgerBlue, steelBlue);}
+
+h1 {
+display:inline-block;
+margin:1%;
+color:white;
+font-size:2em;
+font-family:'lighthouse';}
+
+#profil-box {
+float:right;
+padding:1%;}
+
+#profil-box a {
+color:white;
+text-decoration:none;}
+
+#form-login {
+z-index:1;
+display:none;
+position:absolute;
+right:1%;}
+
+#form-search ul {
+margin:0 auto;
+padding:0;}
+
+#form-search li {
+display:inline-block;}
+
+#form-search label {
+color:white;}
+
+#form-search input {
+border-radius:7px;}
+
+#banner img {
+float:left;
+width:50%;}
+
+#banner div {
+float:left;
+width:50%;
+text-align:center;}
+
+#banner div {
+padding:0;}
+#banner p {
+margin:0;}
+#banner p:first-child,
+#banner p:last-child {
+font-size:2em;
+color:white;}
+
+#main {
+background-color:grey;}
+
+#body {
+padding:1%;}
+
+.require-field:after {
+content:' *';
+color:red;}
+
+.error-msg {
+display:block;
+color:red;}
+
+.clear {
+clear:both;}
+
+h2 {
+text-align:center;}
+
+#list-events {
+margin:1%;
+padding:1%;}
+
+#list-events li.event-box {
+padding:1%;
+margin-bottom:1%;
+border:1px solid black;
+border-radius:7px;
+list-style-type:none;}
+
+#list-events li.event-box h3 {
+display:inline-block;
+margin:1%;
+padding:1%;
+width:75%;
+text-align:center;}
+
+#list-events li.event-box img {
+width:50%;}
+
+.register-events {
+float:right;
+display:block;
+top:1%;
+margin:3% 3% 0 0;
+padding:3%;
+border:1px solid black;
+border-radius:99px;
+-webkit-transform:rotate(15deg)}
+
+h4 {
+margin:0 0 1% 0;}
+
+.clementine_crud-list_table,
+.clementine-dataTables {
+margin:1%;}

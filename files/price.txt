@@ -1,0 +1,6 @@
+>> PREVOIR DANS LA CLÉ PRODUIT UNE VALIDITÉ DE 1 AN >> QUAND DÉLAIS PASSÉ UN MESSAGE S'AFFICHE ET DEMANDE D'ACHETER UNE NOUVELLE CLÉ.
+>> Le logiciel proposera automatiquement d'installer les mises à jour sur la page d'accueil.
+>> Prévoir lors de l'achat sur internet du logiciel, l'envoi de la clé d'activation automatiquement par email.
+>> Paiement par carte bancaire ? Comment cela va se mettre en place ? (quel coût ?).
+>> Si un client achète deux licences, étudier la possibilité que si deux personnes se connectent avec les mêmes identifiants, elles accèdent aux mêmes données (lorsque les ordinateurs sont connectés à internet.
+>> Etudier la possibilité de créer une version d'évaluation limité.
